@@ -8,7 +8,7 @@ født: 1870-11-05 -- død: 1951-01-?? (https://www.digitalarkivet.no/view/387/pc
 - Amanda Torgersen (https://www.digitalarkivet.no/census/person/pf01053257049006, https://www.digitalarkivet.no/census/person/pf01052041008127, https://www.digitalarkivet.no/census/person/pf01052721114102)
 
 ## Bilder
-- https://urn.nb.no/URN:NBN:no-nb_digifoto_20200130_00122_blds_11063
+- URN NBN no-nb_digifoto_20200130_00122_blds_11063: https://urn.nb.no/URN:NBN:no-nb_digifoto_20200130_00122_blds_11063
 - https://urn.nb.no/URN:NBN:no-nb_digifoto_20200130_00123_blds_11064
 
 ### Usikker
