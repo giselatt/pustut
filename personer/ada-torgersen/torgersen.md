@@ -5,6 +5,7 @@ født: 1870-11-05 -- død: 1951-01-?? (https://www.digitalarkivet.no/view/387/pc
 ## Navnevarianter
 - Ada Torgersen
 - Ada Georgine Torgersen (https://www.digitalarkivet.no/census/person/pf01063298038105)
+- Amanda Torgersen (https://www.digitalarkivet.no/census/person/pf01053257049006, https://www.digitalarkivet.no/census/person/pf01052041008127, https://www.digitalarkivet.no/census/person/pf01052721114102)
 
 ## Bilder
 Fotograf: Gustav Borgen (https://norskfolkemuseum.no/gustav-borgen)
