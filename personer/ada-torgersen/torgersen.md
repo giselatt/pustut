@@ -1,6 +1,6 @@
 # Ada Torgersen
 
-Kilde: 
+født -- død -- (kilde: ) 
 
 ## Navnevarianter
 - Ada Torgersen
