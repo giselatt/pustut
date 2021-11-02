@@ -11,7 +11,7 @@ Fotograf: Gustav Borgen (https://norskfolkemuseum.no/gustav-borgen)
 * torgersen1-NFB.44031.jpg: https://digitaltmuseum.no/011013594204/nfb-44031
 * torgersen2-NFB.41925.jpg: https://digitaltmuseum.no/011013590936/nfb-41925
 
-Kommentar: er ikke sikker at dette er samme person (det finnes en Ada Johanne Torgersen i Oslo født 1904 og død 1928: https://www.digitalarkivet.no/view/267/pg00000004072185) og en Ada Torgersen på Nøtterøy føst 1895 (https://www.digitalarkivet.no/census/person/pf01036502006061)
+Kommentar: er ikke sikker at dette er samme person (det finnes en Ada Johanne Torgersen i Oslo født 1904 og død 1928 (https://www.digitalarkivet.no/view/267/pg00000004072185) og en Ada Torgersen på Nøtterøy født 1895 (https://www.digitalarkivet.no/census/person/pf01036502006061))
 
 ## Diverse opplysninger
 jobbet som sykegymnast
