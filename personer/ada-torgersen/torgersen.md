@@ -18,4 +18,4 @@ jobbet som sykegymnast
 Reiste to ganger til USA i årene 1892-:
 - https://www.digitalarkivet.no/view/8upe00000000482027
 - Aftenposten
-- flere
+- flere?
